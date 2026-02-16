@@ -1,0 +1,5 @@
+[toolchain]
+# zgrep CONFIG_RUST /proc/config.gz
+channel = "1.93.0"
+components = ["rust-src"]
+targets = []
